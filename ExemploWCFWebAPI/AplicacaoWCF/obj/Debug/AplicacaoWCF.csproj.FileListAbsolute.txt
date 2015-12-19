@@ -1,0 +1,6 @@
+A:\Minha Area de Trabalho\ExemploWCFWebAPI\AplicacaoWCF\bin\AplicacaoWCF.dll.config
+A:\Minha Area de Trabalho\ExemploWCFWebAPI\AplicacaoWCF\bin\AplicacaoWCF.dll
+A:\Minha Area de Trabalho\ExemploWCFWebAPI\AplicacaoWCF\bin\AplicacaoWCF.pdb
+A:\Minha Area de Trabalho\ExemploWCFWebAPI\AplicacaoWCF\obj\Debug\AplicacaoWCF.csprojResolveAssemblyReference.cache
+A:\Minha Area de Trabalho\ExemploWCFWebAPI\AplicacaoWCF\obj\Debug\AplicacaoWCF.dll
+A:\Minha Area de Trabalho\ExemploWCFWebAPI\AplicacaoWCF\obj\Debug\AplicacaoWCF.pdb

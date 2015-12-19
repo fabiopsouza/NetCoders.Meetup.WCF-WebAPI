@@ -1,0 +1,12 @@
+﻿<script type="text/javascript">
+
+    $(document).ready(function () {
+        $.getJSON("/api/calculoimc?peso=50&altura=1.60", function (data) {
+            alert("Peso: " + data.Peso +
+                  "\nAltura: " + data.Altura +
+                  "\nValor do IMC: " + data.ValorIMC +
+                  "\nSituação: " + data.DescSituacao);
+        });
+    });
+
+</script>
